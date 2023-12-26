@@ -18,3 +18,14 @@ https://edaplayground.com/x/P3e8
 
 Lec6:clock_generation(with fixed_value).sv
 https://edaplayground.com/x/PdUy
+
+Lec7: clock_generation_using_Parameterize.sv
+https://edaplayground.com/x/V3Gq
+
+
+
+
+
+
+
+
