@@ -12,3 +12,7 @@ https://edaplayground.com/x/B7RD
 
 Lec4: Alining the edge of generated clock and reference.
 https://edaplayground.com/x/DKcC
+
+Lec5: Timescale_directive.sv
+https://edaplayground.com/x/P3e8
+
