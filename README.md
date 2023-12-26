@@ -43,7 +43,8 @@ https://edaplayground.com/x/vPhB
 Lec15: call Array value index.sv
 https://edaplayground.com/x/MXkQ
 
-
+Lec16: Array Initialization Strategies.sv
+https://edaplayground.com/x/BGy5
 
 
 
