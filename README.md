@@ -54,3 +54,22 @@ https://edaplayground.com/x/a_ji
 
 Lec19: Foreach Loops for Repetative Array.sv
 https://edaplayground.com/x/kpKS
+
+Lec20: Copy Array to Another Array.sv
+https://edaplayground.com/x/mM6q
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
