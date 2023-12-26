@@ -46,7 +46,11 @@ https://edaplayground.com/x/MXkQ
 Lec16: Array Initialization Strategies.sv
 https://edaplayground.com/x/BGy5
 
+Lec17: For Loops for Repetative Array.sv
+https://edaplayground.com/x/7_pR
 
+Lec18: Repeat Loops for Repetative Array.sv
+https://edaplayground.com/x/a_ji
 
-
-
+Lec19: Foreach Loops for Repetative Array.sv
+https://edaplayground.com/x/kpKS
