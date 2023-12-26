@@ -25,6 +25,9 @@ https://edaplayground.com/x/V3Gq
 Lec8: Genrate Clock for multiple clock variable.sv
 https://edaplayground.com/x/qUJi
 
+Lec10: Signed_data_type.sv
+https://edaplayground.com/x/b3E4
+
 Lec11: datatype $time and $realtime.sv
 https://edaplayground.com/x/gynJ
 
@@ -34,17 +37,10 @@ https://edaplayground.com/x/F4Qm
 Lec13: datatype logic.sv
 https://edaplayground.com/x/P3hp
 
+Lec13: Fixed Size of array.sv
+https://edaplayground.com/x/vPhB
 
 
-
-
-
-
-
-
-
-Lec10: Signed_data_type.sv
-https://edaplayground.com/x/b3E4
 
 
 
