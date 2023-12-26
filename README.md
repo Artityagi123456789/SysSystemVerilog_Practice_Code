@@ -31,7 +31,7 @@ https://edaplayground.com/x/gynJ
 Lec12: datatype reg and wire.sv
 https://edaplayground.com/x/F4Qm
 
-Lec12: datatype logic.sv
+Lec13: datatype logic.sv
 https://edaplayground.com/x/P3hp
 
 
