@@ -22,7 +22,8 @@ https://edaplayground.com/x/PdUy
 Lec7: clock_generation_using_Parameterize.sv
 https://edaplayground.com/x/V3Gq
 
-
+Lec8: Genrate Clock for multiple clock variable.sv
+https://edaplayground.com/x/qUJi
 
 
 
