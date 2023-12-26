@@ -37,9 +37,11 @@ https://edaplayground.com/x/F4Qm
 Lec13: datatype logic.sv
 https://edaplayground.com/x/P3hp
 
-Lec13: Fixed Size of array.sv
+Lec14: Fixed Size of array.sv
 https://edaplayground.com/x/vPhB
 
+Lec15: call Array value index.sv
+https://edaplayground.com/x/MXkQ
 
 
 
