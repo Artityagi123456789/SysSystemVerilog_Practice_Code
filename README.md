@@ -25,6 +25,9 @@ https://edaplayground.com/x/V3Gq
 Lec8: Genrate Clock for multiple clock variable.sv
 https://edaplayground.com/x/qUJi
 
+Lec10: Signed_data_type.sv
+https://edaplayground.com/x/b3E4
+
 
 
 
