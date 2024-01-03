@@ -58,6 +58,25 @@ https://edaplayground.com/x/kpKS
 Lec20: Copy Array to Another Array.sv
 https://edaplayground.com/x/mM6q
 
+code21: write Constraint sum_10.sv
+https://edaplayground.com/x/uuQu
+
+code22: constraint_snipt_1.sv
+https://edaplayground.com/x/DpeS
+
+code23: Constraint_code_snipt2.sv
+https://edaplayground.com/x/iRvu
+
+code24: Constraint_code_snipt3.sv
+https://edaplayground.com/x/eeUC
+
+code25: constraint_code_snipt4.sv
+https://edaplayground.com/x/P72a
+
+code26: constraint_snipt_code5.sv
+https://edaplayground.com/x/P72w
+
+
 
 
 
