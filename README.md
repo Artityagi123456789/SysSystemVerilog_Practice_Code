@@ -76,14 +76,14 @@ https://edaplayground.com/x/P72a
 code26: constraint_snipt_code5.sv
 https://edaplayground.com/x/P72w
 
+Code_snipt:27 Forkjoin.sv
+https://edaplayground.com/x/HzMj
 
+code_snipt:28 Constraint.sv
+https://edaplayground.com/x/dv6a
 
-
-
-
-
-
-
+Code_snipt:29 Class.sv
+https://edaplayground.com/x/YwwE
 
 
 
