@@ -102,3 +102,27 @@ https://edaplayground.com/x/Qbzk
 
 Code:35 Adding Constraint_Range.sv
 https://edaplayground.com/x/ArKL
+
+Code:36 Pre_randomize and Post_randomize.sv
+https://edaplayground.com/x/S8MT
+
+Code:37 RandC.sv
+https://edaplayground.com/x/Z9UU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
