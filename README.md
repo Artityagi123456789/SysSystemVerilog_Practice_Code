@@ -109,7 +109,8 @@ https://edaplayground.com/x/S8MT
 Code:37 RandC.sv
 https://edaplayground.com/x/Z9UU
 
-
+Code:38 @ Vs Wait.sv
+https://edaplayground.com/x/Qcq8
 
 
 
