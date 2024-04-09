@@ -112,7 +112,8 @@ https://edaplayground.com/x/Z9UU
 Code:38 @ Vs Wait.sv
 https://edaplayground.com/x/Qcq8
 
-
+Code:39 Multiple_Process_with_multiple_initial bloclk.sv
+https://edaplayground.com/x/r9kU
 
 
 
